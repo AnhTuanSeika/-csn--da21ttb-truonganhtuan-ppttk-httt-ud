@@ -16,7 +16,7 @@
 
 <p>Một số phương pháp cơ bản dùng để phân tích và thiết kế hệ thống thông tin như: phỏng vấn, Điều tra bằng bảng câu hỏi, quan sát thực tế và điều tra bằng bảng câu hỏi. đây là bước quan trọng để bắt đầu xây dựng một hệ thống ứng dụng.</p>
 
-<p>Dựa vào những quy mô và yêu cầu của ứng dụng để lựa chọn ra phương pháp phù hợp. Từ đó tăng khả năng hoàn thiện khi bắt đầu xây dựng ứng dụng</p>
+<p>Dựa vào những quy mô và yêu cầu của ứng dụng để lựa chọn ra phương pháp phù hợp. Từ đó tăng khả năng hoàn thiện khi bắt đầu xây dựng ứng dụng.</p>
 
 <h2>Liên Hệ:</h2><br>
 
