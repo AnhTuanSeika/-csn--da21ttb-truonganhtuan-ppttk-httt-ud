@@ -28,6 +28,6 @@
 <li><b>Số điện thoại: <font size="3" >0387736690</font></b></li></br>
 
 <h2>Giảng Viên hướng dẫn</h2><br>
-<li><b>ThS. Nguyễn Khắc Quốc</b></li></br>
+<li><b> ThS. Nguyễn Khắc Quốc</b></li></br>
 </body>
 </html>
