@@ -18,11 +18,16 @@
 
 <p>Dựa vào những quy mô và yêu cầu của ứng dụng để lựa chọn ra phương pháp phù hợp. Từ đó tăng khả năng hoàn thiện khi bắt đầu xây dựng ứng dụng.</p>
 
-<h2>Liên Hệ:</h2><br>
 
+
+<h2>Người thực hiện </h2><br>
+<li><b>Họ tên: Trương Anh Tuấn</b></li></br>
+<li><b>MSSV: 110121124</b></li></br>
+<li><b>Lớp: DA21TTB (Công nghệ thông tin B)</b></li></br>
 <li><b>Email: <a href="mailto:anhtuangenz@gmail.com" target="_blank" ><font size="3" >anhtuangenz@gmail.com</font></a></b></li></br>
 <li><b>Số điện thoại: <font size="3" >0387736690</font></b></li></br>
 
-
+<h2>Giảng Viên hướng dẫn</h2><br>
+<li><b>ThS. Nguyễn Khắc Quốc</b></li></br>
 </body>
 </html>
